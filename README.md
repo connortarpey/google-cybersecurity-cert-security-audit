@@ -117,7 +117,7 @@ For Botium Toys the biggest concern to me is that none of their sensitive data (
 
 ---
 
-## 📌 🧠 Summary of Project & What I Learned
+## 🧠 Summary of Project & What I Learned
 
 This project highlights my ability to analyze an organization’s security posture, identify critical vulnerabilities, and recommend actionable improvements to reduce risk and enhance overall security.
 
