@@ -18,7 +18,7 @@ This project demonstrates the process of conducting a cybersecurity audit for a 
 
 ## 🏢 Botium Toys Environment
 
-<img width="468" height="545" alt="image" src="https://github.com/user-attachments/assets/2aea8242-db9f-441e-bdef-5769394ca090" />
+![Botium Toys Environment](./botiumtoysenvironment.png)
 
 ---
 
